@@ -1,2 +1,3 @@
 # Drone-Navigation
-Masters Proj
+
+Drone indoor navigation with stereo camera 
